@@ -1,2 +1,2 @@
 # Azure-Scripts-
-Scripts create for my AI-900 Exam
+Scripts created for my AI-900 Exam
